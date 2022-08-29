@@ -5,7 +5,7 @@ A power supply and holder for a 60mm computer fan. The board is powered by a USB
 
 | Top                                                | Bottom                                                   |
 | -------------------------------------------------- | -------------------------------------------------------- |
-| ![Picture of top of board](./Exports-v1.0/Top.svg) | ![Picture of bottom of board](./Exports-v1.0/Bottom.svg) |
+| ![Picture of top of board](./Exports-v1.1/Top.svg) | ![Picture of bottom of board](./Exports-v1.1/Bottom.svg) |
 
 TODO: Add photo
 
