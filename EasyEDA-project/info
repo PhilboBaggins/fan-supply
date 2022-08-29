@@ -1,0 +1,125 @@
+{
+  "uuid": "c56581d8c0845bb0f1e6209c29c54b87",
+  "path": "Offline/Fan%20supply",
+  "name": "Fan supply",
+  "content": "",
+  "created_at": "2022-08-30 01:12:49",
+  "updated_at": "2022-08-30 03:20:45",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "59d4d05b7366de74dd7229ee0b86eeb0",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "04d28be3880347ca8f2a6cea0d5299af": 1,
+        "c7f1d64d34ea493da9c13b2cdd6e0036": 1,
+        "831b56e3dcf4442a9bbb76af56140781": 1,
+        "9a54aff0187a4e148443fb83edc7ab51": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "FUS213-FDBK6K",
+          1,
+          "USB-B-TH_FUS213-FDBXXK",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C456324",
+            "BOM_Manufacturer": "TXGA",
+            "BOM_Manufacturer Part": "FUS213-FDBK6K",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "30fdf7b17b074cee9840b37ac60c8a47",
+            "uuid": "831b56e3dcf4442a9bbb76af56140781"
+          }
+        ],
+        [
+          "Micro USB 5P H",
+          1,
+          "MICRO-USB_MICRO-USB-30",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C40946",
+            "BOM_Manufacturer": "LCSC",
+            "BOM_Manufacturer Part": "-",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8b9245e89f7849848848abd22f1304f5",
+            "uuid": "c7f1d64d34ea493da9c13b2cdd6e0036"
+          }
+        ],
+        [
+          "2 pin, 5mm screw terminal",
+          1,
+          "CONN-TH_2P-P5.08-WJ500V-5.08-2P",
+          "J3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ500V-5.08-02P-14-00A",
+            "BOM_Supplier Part": "C138464",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "de67cb977aae436893eb213d7e225f81",
+            "uuid": "9a54aff0187a4e148443fb83edc7ab51"
+          }
+        ],
+        [
+          "HLK-B0512S-2WR3",
+          1,
+          "PWRM-TH_IBXX05S-2WR3",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C3029155",
+            "BOM_Manufacturer": "HI-LINK(海凌科)",
+            "BOM_Manufacturer Part": "HLK-B0512S-2WR3",
+            "puuid": "f84af7a36b0d41bc9b67ba6434f6ca0d",
+            "uuid": "04d28be3880347ca8f2a6cea0d5299af"
+          }
+        ]
+      ],
+      "updateTime": 1661791683,
+      "createTime": 1661785969,
+      "histories": [],
+      "created_at": "2022-08-30 01:12:49",
+      "updated_at": "2022-08-30 02:48:03"
+    },
+    {
+      "uuid": "20f26bdb885f44c1271048aa0cf847e8",
+      "puuid": "c56581d8c0845bb0f1e6209c29c54b87",
+      "title": "PCB_Fan supply",
+      "filename": "PCB_Fan supply.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f84af7a36b0d41bc9b67ba6434f6ca0d": 1,
+        "30fdf7b17b074cee9840b37ac60c8a47": 1,
+        "8b9245e89f7849848848abd22f1304f5": 1,
+        "de67cb977aae436893eb213d7e225f81": 1
+      },
+      "BOM": [],
+      "updateTime": 1661793645,
+      "createTime": 1661786242,
+      "histories": [],
+      "created_at": "2022-08-30 01:17:22",
+      "updated_at": "2022-08-30 03:20:45"
+    }
+  ],
+  "sort": [],
+  "title": "Fan supply",
+  "foldername": "Fan supply",
+  "schfilename": "Fan supply.json",
+  "schfilemtime": 1661791683870
+}
