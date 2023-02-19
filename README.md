@@ -3,6 +3,8 @@ Fan supply
 
 A power supply and holder for a 60mm computer fan. The board is powered by a USB connector. 12 volts for the fan is created with a DC/DC boost converter using the USB's 5 volts.
 
+Can be used with <https://github.com/PhilboBaggins/fan-pipe>
+
 | Top                                                | Bottom                                                   |
 | -------------------------------------------------- | -------------------------------------------------------- |
 | ![Picture of top of board](./Exports-v1.1/Top.svg) | ![Picture of bottom of board](./Exports-v1.1/Bottom.svg) |
