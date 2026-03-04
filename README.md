@@ -9,7 +9,16 @@ Can be used with <https://github.com/PhilboBaggins/fan-pipe>
 | -------------------------------------------------- | -------------------------------------------------------- |
 | ![Picture of top of board](./Exports-v1.1/Top.svg) | ![Picture of bottom of board](./Exports-v1.1/Bottom.svg) |
 
-TODO: Add photo
+Demo
+----
+
+[fan-supply-with-fan-pipe.mp4](./fan-supply-with-fan-pipe.mp4) is a video of the "Fan Supply" board powering a computer fan with the [fan pipe](https://github.com/PhilboBaggins/fan-pipe) mounted on top.
+
+<video controls loop>
+    <source src="./fan-supply-with-fan-pipe.mp4" type="video/mp4">
+    If you're seeing this then your browser does not support the video tag.
+</video>
+
 
 Licence
 -------
